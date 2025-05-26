@@ -40,6 +40,10 @@ Congratulations!! You have successfully guessed the number in 3 attempts.
 Bye Bye!! Thanks for Playing!
 Developed by: Parth Kariya
 
-🧑‍💻 Developer
-Parth Kariya
+
+---
+
+## 🧑‍💻 Developer
+
+**Parth Kariya**  
 🛠️ Passionate C programmer and game developer
