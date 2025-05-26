@@ -20,11 +20,14 @@ A simple console-based number guessing game developed in C. The game generates a
 - GCC or any C compiler
 - Terminal or Command Prompt
 
-### 🔧 Compilation:
+### 🔧 Compilation
 
 ```bash
-gcc number_guess.c -o number_guess
+gcc guess.c -o guess
 ./number_guess
+
+```
+## 💻 Sample Output
 
 Welcome to Number Guessing Game
 
@@ -41,9 +44,7 @@ Bye Bye!! Thanks for Playing!
 Developed by: Parth Kariya
 
 
----
-
 ## 🧑‍💻 Developer
 
 **Parth Kariya**  
-🛠️ Passionate C programmer and game developer
+
